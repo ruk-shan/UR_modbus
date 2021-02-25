@@ -1,5 +1,5 @@
 # UR_modbus
-Read and write with modbus registers of UR robot. 
+Read and write modbus registers of UR robot. 
 
 example 1 > read (from robot) modbus register
 example 2 > read joint_val registers and write data to CSV file
